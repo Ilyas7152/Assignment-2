@@ -4,5 +4,9 @@
 #Task 2<img width="1165" height="596" alt="image" src="https://github.com/user-attachments/assets/57fd08cd-a6f1-4438-87d8-f0f37669340b" />
 #Task 3<img width="330" height="224" alt="image" src="https://github.com/user-attachments/assets/2fd25b96-e23a-400c-bd60-315ab6a0e67b" />
 Here in the screenshot transation was deposit 50000 to ali and balance became 200000.<img width="1344" height="702" alt="image" src="https://github.com/user-attachments/assets/9e118c9e-80f6-42bc-a2ad-9da9621d14e2" /> Next transaction is withdraw 30000 <img width="1365" height="713" alt="image" src="https://github.com/user-attachments/assets/2f7a1953-f4e4-446c-8cd4-116d6d17773d" /> then after undo command withdraw was removed<img width="1365" height="728" alt="image" src="https://github.com/user-attachments/assets/4120ddd7-a7c7-49ba-a7ca-69dca3d6d12c" /> and after that last transaction became deposit 50000.
+#TASK4 
+<img width="1364" height="702" alt="image" src="https://github.com/user-attachments/assets/d42276b2-6122-43d4-b07e-f90c1971603f" />
+Here I made an input of 3 bills it is case 9 of my programm.<img width="1365" height="689" alt="image" src="https://github.com/user-attachments/assets/2c589cfb-115c-4cb7-ab71-981f3e0e1346" /> Her I processed water by case 10 also after that I processed elec.<img width="1363" height="684" alt="image" src="https://github.com/user-attachments/assets/77643da1-7519-492e-814f-9f9aad5fcff7" />
+and here I outputted remained by case 11 and the output is warm so it was last one by queue that iis the reason why remained only it.
 
 
