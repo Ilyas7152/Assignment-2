@@ -9,4 +9,5 @@ Here in the screenshot transation was deposit 50000 to ali and balance became 20
 Here I made an input of 3 bills it is case 9 of my programm.<img width="1365" height="689" alt="image" src="https://github.com/user-attachments/assets/2c589cfb-115c-4cb7-ab71-981f3e0e1346" /> Her I processed water by case 10 also after that I processed elec.<img width="1363" height="684" alt="image" src="https://github.com/user-attachments/assets/77643da1-7519-492e-814f-9f9aad5fcff7" />
 and here I outputted remained by case 11 and the output is warm so it was last one by queue that iis the reason why remained only it.
 
-
+#TASK 6 <img width="1045" height="618" alt="image" src="https://github.com/user-attachments/assets/c79eb5ce-1887-4176-a449-d72cbed895f6" />
+I created a list of array and outputted it
