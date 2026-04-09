@@ -1,4 +1,5 @@
 # Assignment-2
+#Khametov Ilyas IT-2503
 #Task 1
 <img width="1365" height="688" alt="image" src="https://github.com/user-attachments/assets/34df3cee-4f30-44b1-8166-854a0c6f7221" />
 #Task 2<img width="1165" height="596" alt="image" src="https://github.com/user-attachments/assets/57fd08cd-a6f1-4438-87d8-f0f37669340b" />
